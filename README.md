@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a machine learning enthusiast with a passion for data science. I'm constantly learning and working on exciting projects in this field. Here's a little bit about me and what you can find in my repositories.</h3>
+<h3 >Welcome to my GitHub profile! I'm a machine learning enthusiast with a passion for data science. I'm constantly learning and working on exciting projects in this field. Here's a little bit about me and what you can find in my repositories.</h3>
 <img align='right' alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 - 🌱 I’m currently learning **Deep Learning**
