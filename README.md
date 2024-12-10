@@ -2,7 +2,7 @@
 <h3 >Welcome to my GitHub profile! I'm a machine learning enthusiast with a passion for data science. I'm constantly learning and working on exciting projects in this field. Here's a little bit about me and what you can find in my repositories.</h3>
 <img align='right' alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Machine Learning**
 
@@ -15,4 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abh1-07&show_icons=true&locale=en&layout=compact" alt="abh1-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abh1-07&show_icons=true&locale=en" alt="abh1-07" /></p>
